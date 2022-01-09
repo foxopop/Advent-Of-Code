@@ -17,14 +17,6 @@ from  math import ceil
 lines = []
 
 
-lines.append("150")
-lines.append("160")
-lines.append("140")
-lines.append("170")
-lines.append("180")
-
-
-
 # Attention : volontairement écrasé par ci-dessous :
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
